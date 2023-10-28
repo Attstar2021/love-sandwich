@@ -1,7 +1,8 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-Here is the link for Heroku (https://thesandwiches-db7f0b64fb1d.herokuapp.com)
 
-Welcome Attstar2021,
+
+[Here is the link to my site](https://thesandwiches-db7f0b64fb1d.herokuapp.com)
+
 
 This is the Code Institute student template for deploying your third portfolio project, the Python command-line project. The last update to this file was: **August 17, 2021**
 
